@@ -1,8 +1,8 @@
 
-|S.No|Project|Maintainer|GitHub Repository|
-|----|-------|------|--------|
-|1|Your Attendance|Shivendu Mishra|https://github.com/shivenducs1136/YourAttendance|
-|2|Pastebin Telegram Bot|Kanishk Pachauri|https://github.com/Mr-Sunglasses/pastebin-telegram|
+|S.No|Project|Maintainer|GitHub Repository|Tags|
+|----|-------|------|--------|-------|
+|1|Your Attendance|Shivendu Mishra|https://github.com/shivenducs1136/YourAttendance| Android, Kotlin|
+|2|Pastebin Telegram Bot|Kanishk Pachauri|https://github.com/Mr-Sunglasses/pastebin-telegram| Python|
 |3|FOSS Website|Akshat Sharma|https://github.com/akshatcoder-hash/FOSS-website-new|
 |4|Xplore|Anvansh Singh|https://github.com/RyanWalker277/Xplore|
 |5|GitHub Organization Invite Bot|Kanishk Pachauri|https://github.com/Mr-Sunglasses/GitHub-Organization-Auto-Invitation-Bot|
