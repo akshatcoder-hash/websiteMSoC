@@ -7,7 +7,7 @@
 |4|Xplore|Anvansh Singh|https://github.com/RyanWalker277/Xplore|
 |5|GitHub Organization Invite Bot|Kanishk Pachauri|https://github.com/Mr-Sunglasses/GitHub-Organization-Auto-Invitation-Bot|
 |6|DSC Kiet Website|Avaneesh|https://github.com/dsckiet/website|
-|7|Buy Me A Coffee DApp|Akshat Sharma|https://github.com/akshatcoder-hash/BuyMeACoffee-Dapp|
+|7|Fund Us DApp|Akshat Sharma|https://github.com/akshatcoder-hash/Fund-Us-Dapp|
 |8|Autotype|Kanishk Pachauri|https://github.com/tushar5526/Autotype|
 |9|NFT Gallery|Akshat Sharma|https://github.com/akshatcoder-hash/nft-gallery|
 |10|HelpU|Anvansh Singh|https://github.com/RyanWalker277/HelpU|
