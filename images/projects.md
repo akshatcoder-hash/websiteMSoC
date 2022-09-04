@@ -9,7 +9,7 @@
 |6|DSC Kiet Website|Avaneesh|https://github.com/dsckiet/website|
 |7|Fund Us DApp|Akshat Sharma|https://github.com/akshatcoder-hash/Fund-Us-Dapp|
 |8|Autotype|Kanishk Pachauri|https://github.com/tushar5526/Autotype|
-|9|NFT Gallery|Akshat Sharma|https://github.com/akshatcoder-hash/nft-gallery|
+|9|Listen NFT|Akhil Raj|https://github.com/GeekCoderRaj/ListenNFT|
 |10|HelpU|Anvansh Singh|https://github.com/RyanWalker277/HelpU|
 |11|Progress Tracker|Akshat Sharma|https://github.com/FOSS-Community/progress-tracker|
 |12|FLET-CLI|Kanishk Pachauri|https://github.com/Mr-Sunglasses/flet-cli|
