@@ -16,7 +16,7 @@
 |13|Toggle Notification|Kanishk Pachauri|https://github.com/Mr-Sunglasses/Toogle-notification|
 |14|Rackathon Backend|Anvansh Singh|https://github.com/RyanWalker277/Rakathon-Backend|
 |15|DSC Kiet Portal Backend||https://github.com/dsckiet/website-backend-v2
-|16|Weather App|Ananya Punia|https://github.com/dsckiet/weather-app-kotlin|
+|16|Weather App|Ananya Punia|https://github.com/dsckiet/weather-app-kotlin| Android, Kotlin|
 |17|||
 |18|||
 |19|||
