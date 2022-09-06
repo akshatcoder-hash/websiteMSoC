@@ -15,9 +15,5 @@
 |12|FLET-CLI|Kanishk Pachauri|https://github.com/Mr-Sunglasses/flet-cli|Flutter, Dart, Python|
 |13|Toggle Notification|Kanishk Pachauri|https://github.com/Mr-Sunglasses/Toogle-notification|Python|
 |14|Rackathon Backend|Anvansh Singh|https://github.com/RyanWalker277/Rakathon-Backend|HTML, CSS, JavaScript, Python|
-|15|DSC Kiet Portal Backend||https://github.com/dsckiet/website-backend-v2| JavaScript, Backend|
-|16|Weather App|Ananya Punia|https://github.com/dsckiet/weather-app-kotlin|Android, Kotlin|
-|17|||
-|18|||
-|19|||
-|20|||
+|15|Weather App|Ananya Punia|https://github.com/dsckiet/weather-app-kotlin|Android, Kotlin|
+
