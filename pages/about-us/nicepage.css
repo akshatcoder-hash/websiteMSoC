@@ -22561,7 +22561,11 @@ a.u-button-style.u-border-20 {
     width: 340px;
   }
 }
-
+#instructions{
+  color: red;
+  margin-left: 10px;
+  margin-right: 10px;
+}
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
  /*end-variables base-font-size*/
