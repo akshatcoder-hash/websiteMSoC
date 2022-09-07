@@ -9,7 +9,6 @@
 |6|DSC Kiet Website|Avaneesh|https://github.com/dsckiet/website|HTML, CSS, JavaScript|
 |7|Fund Us DApp|Akshat Sharma|https://github.com/akshatcoder-hash/Fund-Us-Dapp|JavaScript, Solidity|
 |8|Autotype|Kanishk Pachauri|https://github.com/tushar5526/Autotype|Python|
-|9|Listen NFT|Akhil Raj|https://github.com/GeekCoderRaj/ListenNFT|Solidity, Hardhat , Polygon, Alchemy, Ipfs|
 |10|HelpU|Anvansh Singh|https://github.com/RyanWalker277/HelpU|HTML, CSS, Python|
 |11|Progress Tracker|Akshat Sharma|https://github.com/FOSS-Community/progress-tracker|HTML, CSS, JavaScript, Python|
 |12|FLET-CLI|Kanishk Pachauri|https://github.com/Mr-Sunglasses/flet-cli|Flutter, Dart, Python|
